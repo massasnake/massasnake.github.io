@@ -23,18 +23,45 @@ Place: Kyoto and Urayasu, Japan
 
 ### 職歴
 
-####
+#### The Walt Disney Company (Japan) Ltd.
 
-2016年 
+エンジニア/デザイナー
+
+2016.9-
+
+ディズニーストアマーケティング、東京ディズニーリゾート内マーケティング（株式会社オリエンタルランド出向）を経て、2017年よりWalt Disney Attractions Japan Ltd.へ出向。
+現在は新規アトラクション開発と既存アトラクションのリニューアルを担当。操作盤などをコンセプトと調和させるデザインを様々な角度から研究・開発している。
+
 
 #### MST企画
 
-2020年7月
+代表
+
+2020.7-
+
+個人事業として決済業務や小売、調査業務を行う。
 
 #### ランク王株式会社
 
-2020年
+編集者
+
+2020.9-2021.3
+
+決済分野の専門家として、クレジットカード比較サイトの編集部にて、記事制作だけでなく、企画や渉外などサイト全般の制作業務に携わる。
 
 
+#### OsaiFu Inc.
+
+Co-Founder, 業務執行社員CEO
+
+2020.12-
+
+"<span style="color: red; ">O</span>ne<span style="color: red; ">s</span>top; <span style="color: red; ">a</span>n <span style="color: red; ">i</span>nternational <span style="color: red; ">F</span>inance for <span style="color: red; ">u</span>"というコンセプトのもと、国際送金システムの開発・運営を行う。
+
+#### 株式会社CO-N-PAUSE
+
+外部監査役
+
+2021.9-
 
 ## Skills
