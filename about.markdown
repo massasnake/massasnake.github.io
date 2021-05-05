@@ -10,7 +10,7 @@ Name: massasnake(まっさー)
 
 Age: 19
 
-Occupation: University student
+Occupation: University student and company officer
 
 Place: Kyoto and Urayasu, Japan
 
