@@ -1,5 +1,21 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  
+    {% if jekyll.environment == "development" or page.noindex == true %}
+      <meta name="robots" content="noindex">
+    {% elsif jekyll.environment == "production" %}
+      {% if site.lang == "en" %}<!--英語版リリース時変更-->
+        <meta name="robots" content="noindex">
+      {% elsif page.lang %}
+        {% if page.lang == "en" and site.lang != "en" %}
+          <meta name="robots" content="noindex">
+        {% else %}
+          <meta name="robots" content="index"><!--リリース時変更-->
+        {% endif %}
+      {% else %}
+        <meta name="robots" content="index"><!--リリース時変更-->
+      {% endif %}
+    {% endif %}
 
   {%- include head.html -%}
 
