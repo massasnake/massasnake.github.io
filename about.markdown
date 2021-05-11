@@ -59,8 +59,6 @@ Co-Founder, 業務執行社員CEO
 
 "<span style="color: red; ">O</span>ne<span style="color: red; ">s</span>top; <span style="color: red; ">a</span>n <span style="color: red; ">i</span>nternational <span style="color: red; ">F</span>inance for <span style="color: red; ">u</span>"というコンセプトのもと、国際送金システムの開発・運営を行う。
 
-2021.9-
-
 ## Skills
 
 ### 資格
