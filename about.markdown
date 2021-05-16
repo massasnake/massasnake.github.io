@@ -27,7 +27,7 @@ Place: Kyoto and Urayasu, Japan
 
 エンジニア/デザイナー
 
-2016.9- 現職
+2016.9-
 
 ディズニーストアマーケティング、東京ディズニーリゾート内マーケティング（株式会社オリエンタルランド出向）を経て、2017年よりWalt Disney Attractions Japan Ltd.へ出向。
 
@@ -38,7 +38,7 @@ Place: Kyoto and Urayasu, Japan
 
 代表
 
-2020.7- 現職
+2020.7-
 
 個人事業として決済業務や小売、調査業務を行う。
 
@@ -55,7 +55,7 @@ Place: Kyoto and Urayasu, Japan
 
 Co-Founder, 業務執行社員CEO
 
-2020.12- 現職
+2020.12-
 
 "<span style="color: red; ">O</span>ne<span style="color: red; ">s</span>top; <span style="color: red; ">a</span>n <span style="color: red; ">i</span>nternational <span style="color: red; ">F</span>inance for <span style="color: red; ">u</span>"というコンセプトのもと、国際送金システムの開発・運営を行う。
 
@@ -63,11 +63,11 @@ Co-Founder, 業務執行社員CEO
 
 日本コーチング教育振興協会認定コーチ
 
-2021.4- 現職
+2021.4-
 
 #### 株式会社クラウディアコスチュームサービス
 
-2021.5- 現職
+2021.5-
 
 ## Skills
 
