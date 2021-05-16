@@ -59,6 +59,16 @@ Co-Founder, 業務執行社員CEO
 
 "<span style="color: red; ">O</span>ne<span style="color: red; ">s</span>top; <span style="color: red; ">a</span>n <span style="color: red; ">i</span>nternational <span style="color: red; ">F</span>inance for <span style="color: red; ">u</span>"というコンセプトのもと、国際送金システムの開発・運営を行う。
 
+#### 株式会社成基
+
+日本コーチング教育振興協会認定コーチ
+
+2021.4-
+
+#### 株式会社クラウディアコスチュームサービス
+
+2021.5-
+
 ## Skills
 
 ### 資格
@@ -69,6 +79,7 @@ Co-Founder, 業務執行社員CEO
 - 京都観光文化検定2級
 - 3級アマチュア無線技士
 - 航空無線通信士
+- 日本コーチング教育振興協会認定コーチ
 
 ### 受賞
 
@@ -113,4 +124,4 @@ M5StickCを用いた利用者の操作導線の計測なども行い、文理問
 
 #### プログラミング
 
-Python2系をメインで使用していましたが、Python3系に切り替えました。
+Python2系をメインで使用していましたが、Python3系に切り替えた。
