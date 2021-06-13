@@ -53,14 +53,6 @@ Co-Founder, 業務執行社員CEO
 
 "<span style="color: red; ">O</span>ne<span style="color: red; ">s</span>top; <span style="color: red; ">a</span>n <span style="color: red; ">i</span>nternational <span style="color: red; ">F</span>inance for <span style="color: red; ">u</span>"というコンセプトのもと、国際送金システムの開発・運営を行う。
 
-#### 株式会社成基
-日本コーチング教育振興協会認定コーチ
-
-2021.4-
-
-#### 株式会社クラウディアコスチュームサービス
-2021.5-
-
 #### 株式会社Civichat
 バックオフィス正社員
 
