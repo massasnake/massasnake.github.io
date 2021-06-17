@@ -54,9 +54,9 @@ Co-Founder, 業務執行社員CEO
 "<span style="color: red; ">O</span>ne<span style="color: red; ">s</span>top; <span style="color: red; ">a</span>n <span style="color: red; ">i</span>nternational <span style="color: red; ">F</span>inance for <span style="color: red; ">u</span>"というコンセプトのもと、国際送金システムの開発・運営を行う。
 
 #### 株式会社Civichat
-バックオフィス正社員
+経営監理室
 
-2021.6
+2021.6-
 
 ## Skills
 
